@@ -1,0 +1,7 @@
+_ReSharper.SitefinityWebApp
+App_Data
+bin
+/SitefinityHotelPOC/SitefinityWebApp.csproj.user
+/SitefinityHotelPOC/SitefinityWebApp.suo
+/SitefinityHotelPOC/obj
+/sitefinityhotelpoc/app_data/sitefinity/Logs/*

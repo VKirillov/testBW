@@ -1,0 +1,148 @@
+﻿.sfimageWrp img
+{
+    width: 100%;
+    top: -20px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+.sfPublicWrapper
+{
+    padding: 0px;
+}
+.sf_cols
+{
+    z-index: 20;
+    position: relative;
+}
+.sf_2cols_1_25
+{
+    position: relative;
+    top: -140px;
+    z-index: 100;
+}
+.sf_2cols_2_75
+{
+    position: relative;
+    top: -100px;
+}
+.rtsUL
+{
+    position: relative;
+    z-index: 100;
+}
+.rtsLI
+{
+    -moz-border-radius: 5px; /* Firefox */
+    -webkit-border-radius: 5px; /* Safari, Chrome */
+    border-radius: 5px; /* css3 */
+    background-color: lightSteelBlue !important;
+}
+.rtsLink
+{
+    font-weight: bolder;
+}
+.sfBreadcrumbWrp
+{
+    position: relative;
+    top: -150px;
+    background: navy;
+    height: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    -moz-border-bottom-left-radius: 10px;
+    -moz-border-bottom-right-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+}
+.sfBreadcrumbWrp a
+{
+    color: white !important;
+    top: 5px;
+    position: relative;
+    font-weight: bolder;
+    font-style: italic;
+}
+#ctl09_TDE21B28D004_Col00
+{
+    display: none;
+}
+.SearchForm
+{
+    position: relative;
+    top: -170px;
+    background-color: cornflowerBlue;
+    font-size: 12pt;
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    border-radius: 10px; /* css3 */
+    padding-bottom: 25px;
+    z-index: 1000;
+}
+.SearchForm div
+{
+    position: relative;
+    left: 20px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+#SearchString, #CheckInDate, #NumberOfNights, #findIt
+{
+    -moz-border-radius: 5px; /* Firefox */
+    -webkit-border-radius: 5px; /* Safari, Chrome */
+    border-radius: 5px; /* css3 */
+    position: relative;
+}
+#searchStringId
+{
+    float: left;
+    width: 30%;
+}
+#searchStringId input
+{
+    width: 95%;
+}
+#checkInDateDiv
+{
+    float: left;
+    width: 25%;
+    left: 40px;
+}
+#numberOfNightsDiv {
+    float: left;
+    width: 20%;
+    left: 40px;
+}
+#findIt input
+{
+    width: 100px;
+    height: 30px;
+    left: 10px;
+    border-radius: 10px;
+    background-color: navy;
+    color: white;
+    font-weight: bold;
+}
+.underBottom
+{
+    position: relative;
+    height: 300px;
+    bottom: -250px;
+    background-color: aliceBlue;
+}
+.generalBottomPart
+{
+    position: relative;
+    height: 250px;
+    background-color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+}
+.bottomPart {
+    height: 50px;
+}
+#findIt {
+    width: 20%;
+    position: relative;
+    float: left;
+}
